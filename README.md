@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/jareksav"><img src="https://img.shields.io/badge/Main%20profile-%40jareksav-b9674a?style=for-the-badge&logoColor=f4f2ed&labelColor=141519&logo=github" alt="@jareksav" /></a>
   &nbsp;
-  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=for-the-badge&logo=gmail&logoColor=f4f2ed" alt="Email" /></a>
+  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=for-the-badge&logo=gmail&logoColor=ef9b5e" alt="Email" /></a>
 </p>
 
 ---
