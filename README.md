@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8957e5,100:a371f7&height=200&section=header&text=Yaroslav%20Savchenko&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%26%20UI%2FUX&descSize=20&descAlignY=58&descColor=d2a8ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8957e5,100:a371f7&height=200&section=header&text=Yaroslav%20Savchenko&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20-%20UI%2FUX&descSize=20&descAlignY=58&descColor=d2a8ff&v=2" width="100%" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -62,47 +62,6 @@
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</p>
-
----
-
-## Projects
-
-### [Figma Design Portfolio](https://github.com/JaroslawSawczenko/FIGMA_project)
-> UI/UX · Figma · Product Design
-
-Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. Each project covers the full flow - from wireframe logic to a finished visual system.
-
-<p align="center">
-  <a href="https://github.com/JaroslawSawczenko/FIGMA_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=FIGMA_project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=8957e5&text_color=8b949e" />
-  </a>
-</p>
-
----
-
-### [Lumen](https://github.com/JaroslawSawczenko/Lumen)
-> Django · DRF · PostgreSQL
-
-A quiz platform with auto-generated quizzes, user accounts and profiles, and a localised admin panel. Designed and built end-to-end: data model, REST layer and a clean, responsive interface.
-
-<p align="center">
-  <a href="https://github.com/JaroslawSawczenko/Lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=Lumen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=8957e5&text_color=8b949e" />
-  </a>
-</p>
-
----
-
-### [INF.03 Exam](https://github.com/JaroslawSawczenko/egzamin_inf03)
-> PHP · MySQL · Docker
-
-Solved INF.03 exam sheets packaged in a reproducible Docker environment (PHP 8.2 + Apache + MySQL), so each task runs the same way on any machine.
-
-<p align="center">
-  <a href="https://github.com/JaroslawSawczenko/egzamin_inf03">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=egzamin_inf03&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=8957e5&text_color=8b949e" />
-  </a>
 </p>
 
 ---
