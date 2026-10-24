@@ -17,7 +17,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaroslawSawczenko&show_icons=true&hide_border=true&bg_color=0e0f11&title_color=d98b6f&icon_color=b9674a&text_color=cbc7bf" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaroslawSawczenko&layout=compact&hide_border=true&bg_color=0e0f11&title_color=d98b6f&text_color=cbc7bf" height="160" />
 </p>
 
