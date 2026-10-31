@@ -19,5 +19,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaroslawSawczenko&layout=compact&hide_border=true&bg_color=0e0f11&title_color=d98b6f&text_color=cbc7bf" height="160" />
 </p>
-
-<p align="center"><sub>· · ·</sub></p>
